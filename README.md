@@ -1,2 +1,3 @@
 # mythic
-this is my first github msg
+this is a demo for git and github .
+
